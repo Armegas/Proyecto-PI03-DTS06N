@@ -159,3 +159,6 @@ Cuando aplicamos la media como tendencia estadistica a cada una de nuestras metr
 se segmntaron las metricas para el nivel de ventas según ***precio, idioma, nivel y rating*** de cada curso, el analisis directamente muestra que tanto influyen dichas variables en la demanda del producto vendido. lo cual ya ha sido expuesto previamente.
 
 Conclusion: Seria de bastante ayuda contar con datos mas actualizados en los datasets para hacer una proyeccion mas realista y cotejar los resultados de este analisis hasta el 2020 (situandolo como un analisis Descriptivo), con este lapso de dos años lo que evindentemente certificara la fiabilidad en este caso del analisis en cuestion,  y nos permitira una proyeccion para conocer  ¿Que esta pasando? y ¿Por que? de una forma mas actual y veraz.
+
+Link de la presentacion:
+https://docs.google.com/presentation/d/1IxGONjpWya7elBP684VVfMS_ak00WOQj/edit?usp=share_link&ouid=108648091656798727943&rtpof=true&sd=true
